@@ -1,0 +1,25 @@
+{
+  "name": "node_sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "express-handler": "^0.2.0",
+    "handlebars": "^4.5.3",
+    "mysql2": "^2.3.3",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.21.4",
+    "sqlite3": "^5.0.11",
+    "tedious": "^15.0.1"
+  }
+}
